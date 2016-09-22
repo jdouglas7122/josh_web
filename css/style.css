@@ -1,7 +1,43 @@
+
 h1 { color: #696969;}
 .header {
 	background-image: url(https://scontent.xx.fbcdn.net/v/t1.0-9/14222352_686177334879532_6286661605047658532_n.jpg?oh=ebdbad53647cf5f028adbd1bce2457f4&oe=5876F603);
 	background-repeat: no-repeat;
 	width: 100%;
 	height: 500px;
+	margin-left: 400px;
+}
+.div-txt-1{
+	color:blue;
+	margin-left: 300px;
+}
+
+.div-txt-2{
+	color:blue
+	margin-left: 500px;
+}
+
+.div-txt-3{
+	color:purple;
+	margin-left: 500px;
+}
+
+.div-txt-4{
+	color:red;
+	margin-left: 500px;
+}
+
+.div-txt-5{
+	color:blue;
+	margin-left: 500px;
+}
+
+.div-txt-6{
+	color:purple;
+	margin-left: 500px;
+}
+
+.div-txt-7{
+	color:red;
+	margin-left: 500px;
 }
